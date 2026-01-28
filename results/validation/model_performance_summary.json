@@ -1,0 +1,30 @@
+{
+  "model_info": {
+    "name": "2-Stage Model (Classification + Regression)",
+    "train_period": "2020-2024",
+    "test_period": "2025",
+    "train_size": 11027,
+    "test_size": 5341
+  },
+  "stage1_classification": {
+    "algorithm": "RandomForestClassifier",
+    "accuracy": 0.9702302939524433,
+    "confusion_matrix": {
+      "TN": 4966,
+      "FP": 114,
+      "FN": 45,
+      "TP": 216
+    }
+  },
+  "stage2_regression": {
+    "algorithm": "HuberRegressor",
+    "mae_total": 0.06858693691886807,
+    "mae_normal_group": 0.07004899899877035,
+    "mae_fail_group": 0.04012994317977399
+  },
+  "accuracy_metrics": {
+    "within_5_percent": 54.559071334956,
+    "within_10_percent": 82.49391499719154,
+    "within_15_percent": 94.19584347500468
+  }
+}
