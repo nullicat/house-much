@@ -7,7 +7,7 @@
 ## 📥 **모델 다운로드**
 
 ### **구글 드라이브 링크**
-[모델 다운로드 (구글 드라이브)](https://drive.google.com/drive/folders/1DNmNjVMLzN-vOTQWUTISFF898WrMrV7p)
+[모델 다운로드 (구글 드라이브)](https://drive.google.com/drive/folders/1Bh5C93lrfTVpR_sExLlwCiKBcwT6zLwb).
 
 ---
 
