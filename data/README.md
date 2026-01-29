@@ -26,7 +26,7 @@ data/
 ## 📥 데이터 다운로드
 
 ### 구글 드라이브 링크
-[서울 경매 데이터 다운로드](https://drive.google.com/drive/folders/1DNmNjVMLzN-vOTQWUTISFF898WrMrV7p)
+[서울 경매 데이터 다운로드](https://drive.google.com/drive/folders/13IFaVh0aGyEBBYpc0j-Wb1als8jAJEn4)
 
 ### 포함 파일:
 
